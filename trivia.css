@@ -94,9 +94,16 @@ background: url(59f29ac0984bd3002619c2694f9bf624-removebg-preview.png);
 	filter: drop-shadow(4px 4px 20px #E79A20);}
 
 .answers {
-  margin-bottom: 20px;
-  text-align: left;
-  display: inline-block;
+ position: absolute;
+width: 419px;
+height: 115px;
+left: 284px;
+top: 733px;
+
+background: #FFFFFF;
+border: 3px solid #1D3E6E;
+box-sizing: border-box;
+border-radius: 38px;
 }
 .answers label{
   display: block;
