@@ -83,6 +83,16 @@ bottom: 0%;}
   font-size: 30px;
   margin-bottom: 10px;
 }
+#aboveQ{
+	position: absolute;
+width: 1200px;
+height: 95.15px;
+left: 153px;
+top: 128px;
+
+background: url(59f29ac0984bd3002619c2694f9bf624-removebg-preview.png);
+	filter: drop-shadow(4px 4px 20px #E79A20);}
+
 .answers {
   margin-bottom: 20px;
   text-align: left;
