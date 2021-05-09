@@ -8,14 +8,25 @@ body{
   text-align: center;
   background-color: #f8f6f0;
 }
-h1{
-  font-weight: 300;
-  margin: 0px;
-  padding: 10px;
-  font-size: 20px;
-  background-color: #444;
-  color: #fff;
+#flogo{
+	position: absolute;
+width: 100px;
+height: 119.51px;
+left: 64px;
+	top: 15px;}
+#pottermore{
+	position: absolute;
+width: 263px;
+height: 104px;
+left: 152px;
+top: 30px;
 }
+#girl{
+	position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+	bottom: 0%;}
 .question{
   font-size: 30px;
   margin-bottom: 10px;
