@@ -113,13 +113,15 @@ top: 137px;
 	position: absolute;
 width: 70px;
 height: 70px;
-left: 1356px;
+left: 1306px;
 top: 137px;
 
 	background: url(image.png);}
 #movie1{
 	position: absolute;
-width: 70px;
 height: 70px;
-
-	background: url(image.png);}
+width: 70px;
+left: 14525px;
+top: -303px;
+border-radius: 0px;
+background: url(image.png);}
